@@ -19,28 +19,26 @@
   "adminBot": [
     "100000768468627",
     "100030205562796",
-    "",
-    "",
+    "100084525945365",
+    "61556025075130",
     "100082247235177"
   ],
   "GOD": [
-    "100000768468627",
-    "100089495797706"
+    "100084525945365",
   ],
   "DEV": [
-    "100000768468627",
-    "100089495797706"
+    "100084525945365",
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𓆩X-NiL‣᭄𓆪-143🔥",
-  "authorName": "𝐗𝐍𝐈𝐋",
-  "authorFB": "https://www.facebook.com/xnilxhowdhury143",
-  "authorEmail": "xnilxhowdhury@gmail.com",
-  "prefix": "/",
+  "nickNameBot": "𓆩KAY JULES LANG LULUHOD! SABAY BJ😍",
+  "authorName": "Jules",
+  "authorFB": "https://www.facebook.com/profile.php?id=100084525945365",
+  "authorEmail": "JulesbotCreate@gmail.com",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -51,7 +49,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "andylabaco@gmail.com",
+      "email": "julescalix15@gmail.com",
       "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
